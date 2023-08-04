@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  TotaliyCorp-Case
+//  Totality-Corp-Case
 //
-//  Created by Caner Çağrı on 4.08.2023.
+//  Created by Caner Çağrı on 31.07.2023.
 //
 
 import UIKit
